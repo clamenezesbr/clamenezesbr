@@ -14,11 +14,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail"/>
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/clamenezesbr">
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-</div>
 <div align="center">
     <table><td valign="center" width"10%">
     <div align="center">
