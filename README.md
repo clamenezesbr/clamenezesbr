@@ -16,6 +16,7 @@
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+    </div>
 </div>
 
 <div align="center">
