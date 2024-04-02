@@ -5,7 +5,9 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamenezesbr&layout=compact&langs_count=7&theme=nord"/>
 </div>
-    
+
+
+//Ferremantas
 <div align="center">
     <table><td valign="center" width"10%">
     <div align="center">
@@ -16,7 +18,6 @@
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img align="center" alt="JavaScript Icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-    </div>
 </div>
 
 <div align="center">
