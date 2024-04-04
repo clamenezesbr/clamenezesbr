@@ -1,6 +1,6 @@
 ## Gabriel Menezes
 
-![Mackenzie Preview Image](https://i.ibb.co/fx37wky/Mackenzie-Github.png)
+<a href="https://ibb.co/wKHdjTZ"><img src="https://i.ibb.co/cN5yVPK/Banner-perfil-github-1-1.png" alt="Banner-perfil-github-1-1" border="0" /></a>
 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
