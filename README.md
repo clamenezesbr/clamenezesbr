@@ -1,7 +1,7 @@
 ## Gabriel Menezes
 
 <div align="center>
-  ![Banner user](https://i.ibb.co/JzLcgNW/Banner-perfil-github-1-1.png)
+  <img src="https://i.ibb.co/JzLcgNW/Banner-perfil-github-1-1.png"/>
 </div>
 
 <div align="center">
