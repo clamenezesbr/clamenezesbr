@@ -1,4 +1,7 @@
 ## Gabriel Menezes
+
+  ![Banner user](https://i.ibb.co/WxH0QPs/Banner-perfil-github.png)
+
 <div align="center">
   <a href="https://github.com/clamenezesbr">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
