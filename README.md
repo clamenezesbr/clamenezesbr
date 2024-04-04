@@ -1,12 +1,11 @@
 ## Gabriel Menezes
 
 [![Banner-perfil-github.png](https://i.postimg.cc/fytTT5wM/Banner-perfil-github.png)](https://postimg.cc/tnbHB3Zc)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamenezesbr&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=synthwave"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"/>
 </div>
     
 <div align="center" style="display: inline_block"><br>
