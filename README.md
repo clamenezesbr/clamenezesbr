@@ -1,8 +1,6 @@
 ## Gabriel Menezes
 
-<div align="center>
-  <img src="https://i.ibb.co/JzLcgNW/Banner-perfil-github-1-1.png"/>
-</div>
+![Banner user](https://i.ibb.co/JzLcgNW/Banner-perfil-github-1-1.png)
 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
