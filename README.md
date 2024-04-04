@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/clamenezesbr">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=synthwave"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamenezesbr&layout=compact&theme=synthwave"/>
 </div>
     
 <div align="center" style="display: inline_block"><br>
