@@ -1,6 +1,6 @@
 ## Gabriel Menezes
 
-[![Banner-perfil-github.png](https://i.postimg.cc/fytTT5wM/Banner-perfil-github.png)](https://postimg.cc/tnbHB3Zc)
+[![Banner-perfil-github-escuro-synthwave.png](https://i.postimg.cc/j5Zc0Drr/Banner-perfil-github-escuro-synthwave.png)](https://postimg.cc/ph5zKXT0)
 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
