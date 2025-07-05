@@ -1,7 +1,7 @@
 ## Gabriel Menezes
  
 [![Banner-perfil-github-escuro-synthwave-1-2.png](https://i.postimg.cc/SRddDFLk/Banner-perfil-github-escuro-synthwave-1-2.png)](https://github.com/clamenezesbr)
-
+ 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=synthwave"/>
