@@ -1,5 +1,4 @@
-## Gabriel Menezes
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=%3Ch1%3EGabriel%3C%2Fh1%3E)](https://git.io/typing-svg)
 [![Banner-perfil-github-escuro-synthwave-1-2.png](https://i.postimg.cc/SRddDFLk/Banner-perfil-github-escuro-synthwave-1-2.png)](https://github.com/clamenezesbr)
 
 <div align="center">
