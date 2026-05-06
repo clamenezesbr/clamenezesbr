@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/clamenezesbr">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=clamenezesbr&show_icons=true&theme=synthwave"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamenezesbr&layout=compact&theme=synthwave"/>
+  <img align="center" height="200cm" src="https://github-readme-stats-alpha-nine-59.vercel.app/api?username=clamenezesbr&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" height="200cm" src="https://github-readme-stats-alpha-nine-59.vercel.app/api/top-langs/?username=clamenezesbr&&theme=synthwave&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
 </div>
 
 </br>
