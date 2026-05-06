@@ -1,4 +1,8 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=%3Ch1%3EGabriel%3C%2Fh1%3E)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <a href="https://github.com/clamenezesbr">
