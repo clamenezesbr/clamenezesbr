@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C724B1&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Gabriel+%F0%9F%91%8B;Desenvolvedor+Web+%F0%9F%9A%80;Apaixonado+por+tecnologia+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C724B1&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Menezes+%F0%9F%91%8B;Estagi%C3%A1rio+na+Huawei+%F0%9F%9A%80;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Mackenzie;Desenvolvimento+%7C+Cloud+%7C+Dados)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,18 +14,29 @@
 
 ## Sobre mim
 
-- Desenvolvedor web apaixonado por criar interfaces modernas e funcionais
-- Estudando e construindo projetos com foco em **front-end** e **full-stack**
-- Sempre aprendendo novas tecnologias e ferramentas
-- Localizado em **São Paulo, Brasil**
+- Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie
+- Estagiário na **Huawei** — Commercial Sales Dept (migração em nuvem para o setor bancário)
+- Experiência em **análise de dados**, **automação de processos** e **desenvolvimento backend**
+- Vivência profissional internacional em **Nova York** (e-commerce parceiro da Amazon)
+- Localizado em **São Paulo, Brasil** | Inglês fluente
 
 ---
 
 ## Atualmente
 
-- Trabalhando em projetos web com **React** e **Node.js**
-- Aprendendo: **TypeScript** e boas práticas de UI/UX
-- Aberto para oportunidades de **estágio e freela**
+- Trabalhando na **Huawei** com projetos de cloud e setor bancário
+- Cursando **Ciência da Computação** no Mackenzie
+- Aprofundando conhecimentos em **Cloud**, **Backend** e **Análise de Dados**
+
+---
+
+## Experiência
+
+| Empresa | Cargo | Período |
+|---|---|---|
+| **Huawei** | Estagiário — Commercial Sales Dept | Atual |
+| **GaleriaPix** | Automação e Otimização de Processos | ~2 anos |
+| **E-commerce (NY)** | Parceiro Amazon — Operações | EUA |
 
 ---
 
