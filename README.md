@@ -72,12 +72,6 @@
   <img src="https://streak-stats.demolab.com/?user=clamenezesbr&theme=synthwave" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clamenezesbr&theme=synthwave&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## Contato
@@ -89,8 +83,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.liteapp.com/badge?page_id=clamenezesbr" alt="visitors">
-  <p><i>"Transformando ideias em código, um commit de cada vez."</i></p>
-</div>
