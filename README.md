@@ -34,7 +34,7 @@
 
 | Empresa | Cargo | Período |
 |---|---|---|
-| **Huawei** | Estagiário — Commercial Sales Dept | Atual |
+| **Huawei** | Commercial Sales Dept | Atual |
 | **GaleriaPix** | Automação e Otimização de Processos | ~2 anos |
 | **E-commerce (NY)** | Parceiro Amazon — Operações | EUA |
 
