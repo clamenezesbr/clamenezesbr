@@ -34,9 +34,9 @@
 
 | Empresa | Cargo | Período |
 |---|---|---|
-| **Huawei** | Commercial Sales Dept | Atual |
-| **GaleriaPix** | Automação e Otimização de Processos | ~2 anos |
-| **E-commerce (NY)** | Parceiro Amazon — Operações | EUA |
+| **Huawei** | Commercial Sales Dept | 2024-26(atual) |
+| **GaleriaPix** | Automação e Otimização de Processos | 2022-24 |
+| **E-commerce (NY)** | Parceiro Amazon — Operações | 2023-24 |
 
 ---
 
